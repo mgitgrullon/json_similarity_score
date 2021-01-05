@@ -1,7 +1,6 @@
 require "test_helper"
 require_relative "../lib/json_utilities/compare"
 
-
 class JsonSimilarityCompare < ActiveSupport::TestCase
   def setup
     @invalid_json = 1

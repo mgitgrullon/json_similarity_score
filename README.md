@@ -23,6 +23,14 @@ Write a program using Ruby (Rails if possible) that will compare two json object
 
 ```
 
-# Tests
+### Requirements:
+```
+ruby '2.4.2'
+gem 'rails', '~> 5.2.3'
+```
 
+
+# Tests
+run:
 `rake test`
+
