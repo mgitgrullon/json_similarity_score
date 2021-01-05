@@ -8,6 +8,20 @@ Write a program using Ruby (Rails if possible) that will compare two json object
 
 [Jaro–Winkler gem](https://github.com/tonytonyjan/jaro_winkler)
 
+```
+# controller
+`app\controllers\compare_controller.rb`
+
+# lib module
+`lib\json_utilities\compare.rb`
+
+# test file
+`test\compare_test.rb`
+
+# views
+`app\views\compare`
+
+```
 
 # Tests
 
